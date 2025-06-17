@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 # Prompt the user to enter a number
 try:
     num_str = input("Enter a number: ")
